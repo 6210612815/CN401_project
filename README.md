@@ -1,2 +1,3 @@
 # CN401_project
-Project For CN401
+COMPUTER ENGINEERING PROJECT I
+โครงงานทางวิศวกรรมคอมพิวเตอร์ 1
